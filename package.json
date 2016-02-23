@@ -23,7 +23,7 @@
   "main": "./index",
   "dependencies": {
     "lodash": "^3.9.3",
-    "msgpack5rpc": "^1.0.1",
+    "msgpack5rpc": "git+https://github.com/SevereOverfl0w/node-msgpack5rpc.git",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
